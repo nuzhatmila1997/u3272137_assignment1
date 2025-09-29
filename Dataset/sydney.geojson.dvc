@@ -1,0 +1,5 @@
+outs:
+- md5: 4783b25a3a7a7519a6fdd1fb5e188473
+  size: 6867505
+  hash: md5
+  path: sydney.geojson
